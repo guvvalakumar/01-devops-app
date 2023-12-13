@@ -1,2 +1,2 @@
-# D For prac
+# 01-devops-app
 This is created for practice purpose.
